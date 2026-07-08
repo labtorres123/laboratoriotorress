@@ -1,0 +1,6 @@
+{
+  "name": "Laboratorio Torres",
+  "description": "Plataforma en línea para el reporte de resultados de laboratorio clínico, generación de boletas personalizadas en PDF, cálculos clínicos automáticos y cifrado de extremo a extremo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
